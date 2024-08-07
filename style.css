@@ -1,0 +1,24 @@
+.hero-section {
+  text-align: center;
+  padding: 60px 10px;
+  background-color: #f8f9fa;
+}
+
+.about-section {
+  padding: 60px 20px;
+}
+
+.section {
+  padding: 60px 20px;
+  background-color: #f8f9fa;
+}
+
+.contact-section {
+  background-color: white !important;
+}
+.contact-section form .form-group {
+  margin-bottom: 1.2rem;
+}
+.contact-section textarea {
+  resize: vertical;
+}
